@@ -1,2 +1,2 @@
 
-![Analytics template of w3 school](https://github.com/Dibya-pandey/W3CSS-analytics/master/screenshot.jpg)
+![screenshot](https://user-images.githubusercontent.com/19775100/40347241-44b5cb38-5dbf-11e8-9980-9c4762788b2e.jpg)
